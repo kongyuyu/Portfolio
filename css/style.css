@@ -1,0 +1,38 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+	font-family: 'Lato', sans-serif;
+	color: #747704;
+	font-weight: 300;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+.text-muted {
+	color: #BCBBBB;
+}
+
+.title-big {
+	font-size: 60px;
+}
+
+.title-logo {
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+}
+
+.title {
+	margin-top: 20px;
+}
+
+hr {
+	border-top: 4px solid #BCBBBB;
+}
